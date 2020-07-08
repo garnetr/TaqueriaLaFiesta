@@ -745,59 +745,79 @@ section.lazy-placeholder:after {
   color: #9f3942;
   font-weight: bold;
 }
-.cid-rXeJqJTxvX {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/food-2-1706x1199.png");
+.cid-s479vbs6ds {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/wet-burrito-1-close-crop-216x167.jpg");
 }
-.cid-rXeJqJTxvX .menu-item {
-  padding: 0 1rem 1rem 1rem;
+.cid-s479vbs6ds .mbr-section-title {
+  letter-spacing: 0.1em;
+  text-align: center;
 }
-.cid-rXeJqJTxvX .menu-item .special-label {
-  display: none;
+.cid-s479vbs6ds .mbr-section-subtitle {
+  color: #f9e2af;
 }
-.cid-rXeJqJTxvX .menu-item.special-item {
-  padding-bottom: 0;
-  margin-bottom: 1rem;
-  border: 2px solid #9f3942;
-}
-.cid-rXeJqJTxvX .menu-item.special-item .special-label {
-  display: block;
-  width: 100%;
-  word-break: break-word;
-}
-.cid-rXeJqJTxvX .menu-item.special-item .special-label .label-text {
-  max-width: 100%;
-  background: #9f3942;
-  padding: .5rem 1rem;
-  display: inline-block;
-}
-.cid-rXeJqJTxvX .special-label {
-  color: #fff;
-}
-.cid-rXeJqJTxvX .menu-box {
-  display: flex;
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
-}
-.cid-rXeJqJTxvX .menu-box .box-text {
-  word-break: break-word;
-  padding-right: 2rem;
+.cid-s479vbs6ds .image-wrap img {
   width: 100%;
 }
-.cid-rXeJqJTxvX .menu-box .box-price {
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
+.cid-s479vbs6ds .mbr-desc {
+  width: 100%;
 }
-.cid-rXeJqJTxvX .menu-row .menu-item:last-child {
-  margin-bottom: 2rem;
+.cid-s479vbs6ds .tab-content {
+  padding: 4rem 3rem 3rem 3rem;
+  border-top: 3px solid #f9e2af;
+  -webkit-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 4px 26px -5px rgba(0, 0, 0, 0.2);
+  background: #ffffff;
 }
-.cid-rXeJqJTxvX .menu-row {
+.cid-s479vbs6ds .nav {
+  border: none;
+}
+.cid-s479vbs6ds .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-s479vbs6ds .card-box {
+  -webkit-align-items: baseline;
+  align-items: baseline;
+}
+.cid-s479vbs6ds .card-box .mbr-price {
   margin: 0;
 }
-.cid-rXeJqJTxvX .group-title {
-  color: #9f3942;
-  font-weight: bold;
+.cid-s479vbs6ds .card-box .mbr-text {
+  line-height: 1;
+}
+.cid-s479vbs6ds .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  padding: .5rem 1rem;
+  margin: 0px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-bottom: 1rem;
+  transition: all .5s;
+  border: 0 !important;
+}
+.cid-s479vbs6ds .nav-tabs .nav-link:hover {
+  color: #f9e2af;
+  border: 0 !important;
+}
+.cid-s479vbs6ds .nav-tabs .nav-link.active {
+  color: #f9e2af;
+  border: 0 !important;
+  background-color: transparent;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-s479vbs6ds .container {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
 }
 .cid-rXeISRnrgx {
   padding-top: 45px;
@@ -1391,7 +1411,7 @@ section.lazy-placeholder:after {
 .cid-s472dg7xJJ {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("");
+  background-image: url("../../../assets/images/wet-burrito-1-close-crop-216x167.jpg");
 }
 .cid-s472dg7xJJ .mbr-section-title {
   letter-spacing: 0.1em;
